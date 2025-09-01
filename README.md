@@ -1,46 +1,39 @@
-<h1 align="center">Hello There! 👋</h1>
+![line](https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif)
 
-<p align="center">
-  <img src="asset/with-pfp.png" alt="shiroiYuuki"/>
-</p>
+<h2 align="center">Hello There! 👋</h2>
 
-<br>
-
-<h4 align="center">Nice to meet ya ^_^</h4>
+![shiroiYuuki](asset/new1.png)
 
 <br>
 
-<h5 align="center">My skills (for now) 😊</h5>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ps&perline=3" />
-  </a>
-</p>
+<h3 align="center">Nice to meet ya ^_^</h3>
 
-<h5 align="center">My favorite browser 😉</h5>
-<p align="center">
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
-</p>
+![ina](https://media.tenor.com/OiEJht3qg-EAAAAi/takodachi-ina.gif)
 
-<h5 align="center">🖥️ Operating Systems I Can Use🖥️</h5>
+<br>
 
-<p align="center">
-  🐧 Comfortable with **Linux** <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-</p>
+#### My skills (for now) 😊
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps&perline=3)](https://skillicons.dev)
 
-<p align="center">
-  🔳 Experienced with **Windows** <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-</p>
+<br>
 
+#### My favorite browser 😉
 
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
 
-<p align="center">
-    [**Donate me**](https://saweria.co/YUUKINEKO)  
-</p>
+<br>
+<br>
 
-![ina](https://tenor.com/view/takodachi-ina-ninomae-ninomae-inanis-hololive-gif-20761271) 
+#### 🖥️ Operating Systems I Can Use 🖥️ 
+- Comfortable with 🐧 **Linux** 🐧.
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+- Experienced with 🔳 **Windows** 🔳.
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+"/>
+
+Donate me [here](https://saweria.co/YUUKINEKO) 😋
+
+![line](https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif)
