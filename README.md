@@ -1,4 +1,7 @@
-![line](https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif" alt="line"/>
+</p>
+
 
 <h2 align="center">Hello There! 👋</h2>
 
@@ -8,8 +11,9 @@
 
 <h3 align="center">Nice to meet ya ^_^</h3>
 
-![ina](https://media.tenor.com/OiEJht3qg-EAAAAi/takodachi-ina.gif)
-
+<p align="center">
+  <img src="https://media.tenor.com/OiEJht3qg-EAAAAi/takodachi-ina.gif" alt="Takodachi :3"/>
+</p>
 <br>
 
 #### My skills (for now) 😊
@@ -36,4 +40,6 @@
 
 Donate me [here](https://saweria.co/YUUKINEKO) 😋
 
-![line](https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/Vrv6_ihFvoQAAAAC/purple-line.gif" alt="line"/>
+</p>
