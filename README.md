@@ -1,13 +1,12 @@
+<div align="center">
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="line"/>
 </p>
 
-
 <h2 align="center">Hello There! 👋</h2>
 
 ![shiroiYuuki](asset/new1.png)
-
-<br>
 
 <h3 align="center">Nice to meet ya ^_^</h3>
 
@@ -19,16 +18,11 @@
 #### My skills (for now) 😊
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ps&perline=3)](https://skillicons.dev)
 
-<br>
-
 #### My favorite browser 😉
 
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
-
-<br>
-<br>
 
 #### 🖥️ Operating Systems I Can Use 🖥️ 
 - Comfortable with 🐧 **Linux** 🐧.
